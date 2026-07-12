@@ -26,11 +26,3 @@
   }
   ```
   - 그리고 굳이 `<div>`로 묶지 않아도 되며 `<></>` 아니면 `<fragment>`태그를 사용하여 태그를 묶어줘도 된다.
-  - dfadfadfadfdfdafaadsfasfadsfasdfaasdfasdasdfasdfasdfasdf
-  - adfas
-  - asdfasdfasdfadsfasf
-  - adsfsdf
-  - aidf
-  - afdasdf
-  - gafsdfsag
-  - gadafasd
